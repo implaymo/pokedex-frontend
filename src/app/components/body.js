@@ -65,5 +65,6 @@ export default function Body() {
       )}
       <img src="/images/pokemon-logo.webp" id="pokemonLogo" alt="Pokemon Logo" />
     </div>
+    
   );
 }
