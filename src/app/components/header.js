@@ -5,7 +5,7 @@ export default function Header() {
     <Head>
       <meta charSet="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>FDSAHGJDASHK</title>
+      <title>Pokedex</title>
       {/* Favicon */}
       <link rel="icon" href="/images/pokeball.png" type="image/png" />
       {/* Bootstrap CSS */}
